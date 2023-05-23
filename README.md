@@ -7,6 +7,7 @@ NSFWBot is a discord bot that allows you to send pornographic videos or images (
 ## Installation
  Install obviously the specific webdriver **(SaphirDriver)**, it is very useful to send videos randomly :
  - [SaphirDriver](https://oshi.at/XcqM) **(important)** !
+ 
  After installing SaphirDriver, install the ZIP of this repository and extract it!
  - [NSFWBot ZIP](https://github.com/2e0/NSFWBot/archive/refs/heads/main.zip)
 After doing this, go to your cmd and go to the NSFWBot directory, do :

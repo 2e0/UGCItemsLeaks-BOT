@@ -1,4 +1,4 @@
-![](https://dcbadge.vercel.app/api/shield/1058422507666940056)
+![nsfwbot](https://daspeller4.xyz/drive/file/426/de9b12baa84bbd9f1d21ec4c392ae19d/5_27_2023%204_49_20%20PM.png)
 # NSFWBot
 
 NSFWBot is a discord bot that allows you to send pornographic videos or images (your choice) in specific channels (all randomly, every two minutes), it requires a simple installation.

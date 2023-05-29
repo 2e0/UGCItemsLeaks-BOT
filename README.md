@@ -1,6 +1,6 @@
 ![5_28_2023 3_53_29 PM](https://github.com/2e0/UGCItemsLeaks-BOT/assets/110056919/6869ab43-05dc-4f81-9f87-dad1e6cec5bb)
 
-# NSFWBot
+# UGC Items Sender Leaker Bot
 
 UGCItemsLeaks-BOT is a bot discord that allows you to send leaked and unleaked items in specific channels, but not only that, it also allows you to send all new UGC item trends! Graphic visualization and all that!
 

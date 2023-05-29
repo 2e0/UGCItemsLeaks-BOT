@@ -11,7 +11,7 @@ UGCItemsLeaks-BOT is a bot discord that allows you to send leaked and unleaked i
  
  After installing SaphirDriver, install the ZIP of this repository and extract it!
  
- - [NSFWBot ZIP](https://github.com/2e0/UGCItemsLeaks-BOT/archive/refs/heads/main.zip)
+ - [UGCItems-Leaks.ZIP](https://github.com/2e0/UGCItemsLeaks-BOT/archive/refs/heads/main.zip)
 After doing this, go to your cmd and go to the NSFWBot directory, do :
                               
     `pip install -r requirements.txt
